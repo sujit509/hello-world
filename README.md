@@ -1,5 +1,5 @@
 # hello-world
 github demo
 
-Hi There,
+Hello,
 It's me trying make change.
